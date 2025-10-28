@@ -25,6 +25,6 @@ HTML, CSS
 ## Screenshots
 
 **Homepage View**  
-
+<img src="https://github.com/SachinOjha2001/Spotify-Clone/blob/main/Screenshot%202025-10-28%20100941.png?raw=true">
 **Playlist Section**  
 
