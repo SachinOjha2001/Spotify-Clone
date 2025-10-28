@@ -27,7 +27,4 @@ HTML, CSS
 **Homepage View**  
 
 **Playlist Section**  
-[![Playlist](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(171).png?raw=true)](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(171).png?raw=true)
 
-**Music Controls / Interactive Styling**  
-[![Music Controls](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(172).png?raw=true)](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(172).png?raw=true)
