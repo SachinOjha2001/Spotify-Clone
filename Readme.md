@@ -1,0 +1,34 @@
+# Spotify Clone
+
+Replicated the Spotify interface using only HTML and CSS, showcasing a clean, responsive, and modern music app layout.
+
+Built with HTML and CSS; focused on responsive design, hover effects, and interactive UI elements to mimic Spotify’s look and feel. Organized sections for playlists, navigation, and music display, with smooth transitions and consistent styling. Fully responsive layout for desktop and mobile screens.
+
+---
+
+## Tech Stack
+
+HTML, CSS
+
+---
+
+## Features
+
+- Responsive Spotify-like interface  
+- Navigation bar and playlists section  
+- Hover effects and transitions for interactive feel  
+- Organized layout for music controls and content  
+- Mobile-friendly design
+
+---
+
+## Screenshots
+
+**Homepage View**  
+[![Homepage](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(170).png?raw=true)](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(170).png?raw=true)
+
+**Playlist Section**  
+[![Playlist](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(171).png?raw=true)](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(171).png?raw=true)
+
+**Music Controls / Interactive Styling**  
+[![Music Controls](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(172).png?raw=true)](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(172).png?raw=true)
