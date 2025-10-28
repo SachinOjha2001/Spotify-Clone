@@ -25,7 +25,6 @@ HTML, CSS
 ## Screenshots
 
 **Homepage View**  
-[![Homepage](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(170).png?raw=true)](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(170).png?raw=true)
 
 **Playlist Section**  
 [![Playlist](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(171).png?raw=true)](https://github.com/AdarshVerma1968/vadarsh-cssmajorpro-repo/blob/main/Screenshot%20(171).png?raw=true)
